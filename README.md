@@ -2,7 +2,7 @@ geometry_analysis
 ==============================
 [//]: # (Badges)
 [![Build Status](https://travis-ci.org/gayverjr/geometry_analysis.png)](https://travis-ci.org/gayverjr/geometry_analysis.svg?branch=master)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/geometry_analysis/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/geometry_analysis/branch/master)
+[![codecov](https://codecov.io/gh/gayverjr/geometry_analysis/branch/master/graph/badge.svg)](https://codecov.io/gh/gayverjr/geometry_analysis)](https://codecov.io/gh/gayverjr/geometry_analysis/branch/master)
 
 A short description of the project.
 
