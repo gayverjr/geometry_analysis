@@ -11,7 +11,7 @@ dependencies:
   - codecov
 
 #dependencies
-- numpy
+  - numpy
     # Pip-only installs
   #- pip:
   #  - codecov
