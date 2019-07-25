@@ -4,8 +4,8 @@ A short description of the project.
 """
 
 # Add imports here
-from .geometry_analysis import *
-
+from .measure import *
+from .molecule import *
 # Handle versioneer
 from ._version import get_versions
 versions = get_versions()
